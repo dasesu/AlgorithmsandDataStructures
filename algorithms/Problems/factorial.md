@@ -1,4 +1,4 @@
-## Problem
+## Factorial!
 
 You have been given a positive integer N. You need to find and print the
 Factorial of this number. The Factorial of a positive integer N refers to the
