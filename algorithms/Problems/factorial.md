@@ -1,5 +1,3 @@
-
-
 ## Problem
 
 You have been given a positive integer N. You need to find and print the
@@ -17,4 +15,6 @@ Output a single line denoting the factorial of the number N.
 #### Constraints
 $$ 1 \leq N \leq 10 $$
 
-
+| Sample Input | Sample Output |
+| -------- | ------- |
+| 2 | $2 |
