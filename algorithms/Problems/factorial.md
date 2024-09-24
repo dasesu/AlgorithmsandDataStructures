@@ -20,4 +20,4 @@ $$ 1 \leq N \leq 10 $$
 | 2 | 2 |
 
 Problem taken from:  
-~[Hackerearth.com](www.hackerearth.com) > Basic Programming > Input/Output > Basics of Input/Output > ![Factorial!](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/)
+Hackerearth.com > Basic Programming > Input/Output > Basics of Input/Output > ![Factorial!](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/)
