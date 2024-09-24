@@ -26,7 +26,6 @@ int factorial(int num){
    return ans;
 }
  
- 
 int main (int argc, char *argv[]){
    int num;
    //std::scanf("%d", &num);
