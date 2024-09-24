@@ -18,3 +18,6 @@ $$ 1 \leq N \leq 10 $$
 | Sample Input | Sample Output |
 | -------- | ------- |
 | 2 | 2 |
+
+From:  
+![hackerearth.com|Basic Programming|Input/Output|Basics of Input/Output|Factorial! ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/)
