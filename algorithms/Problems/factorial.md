@@ -3,7 +3,7 @@
 You have been given a positive integer N. You need to find and print the
 Factorial of this number. The Factorial of a positive integer N refers to the
 product of all number in the range from 1 to N. You can read more about the
-factorial of a number here.
+factorial of a number here.https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/
 
 #### Input Format:
 The first and only line of the input contains a single integer N denoting the
@@ -19,5 +19,5 @@ $$ 1 \leq N \leq 10 $$
 | -------- | ------- |
 | 2 | 2 |
 
-From:  
-![hackerearth.com|Basic Programming|Input/Output|Basics of Input/Output|Factorial! ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/)
+Problem taken from:  **Hackerearth.com**  
+Hackerearth.com -> Basic Programming -> Input/Output -> Basics of Input/Output-> ![Factorial!](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/)
