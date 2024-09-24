@@ -17,4 +17,4 @@ $$ 1 \leq N \leq 10 $$
 
 | Sample Input | Sample Output |
 | -------- | ------- |
-| 2 | $2 |
+| 2 | 2 |
